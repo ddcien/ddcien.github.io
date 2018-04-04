@@ -1,1 +1,13 @@
-theme: jekyll-theme-hacker
+title: Richard's Blog
+author: Richard Lu
+email: ddcien.lu@gmail.com
+show_excerpts: false
+timezone: Asia/Shanghai
+github_username: ddcien
+
+markdown: kramdown
+theme: minima
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
